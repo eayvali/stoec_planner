@@ -3,7 +3,7 @@ This repository contains codes for the IROS2017 paper [Ergodic Coverage In Const
 
 **A Python version of the code can be found in the following repository [stoec-python](https://github.com/Hadisalman/search-coverage/tree/stoec).**
 
-#Summary
+# Summary
 In search and surveillance applications in robotics, it is intuitive to spatially distribute robot trajectories with respect to the probability of locating targets in the domain.
 Ergodic coverage is one such approach to trajectory planning in which a robot is directed such that the percentage of time spent in a region is in proportion to the probability of locating targets
 in that region. In this work, we extend the ergodic coverage algorithm to robots operating in constrained environments and present a formulation that can capture sensor footprint
@@ -11,7 +11,7 @@ and avoid obstacles and restricted areas in the domain. We demonstrate that our 
 to perform ergodic coverage of a domain.
 ![Example](./plot.png)
 
-#Video
+# Video
 
 The video in the repository shows simulation of each figure in the paper. Also checkout the application of stoec to a quadcopter coverage problem by Hadi using [AirSim](https://www.youtube.com/watch?v=ij7dZU_yoRI)
 

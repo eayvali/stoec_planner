@@ -12,7 +12,7 @@ and avoid obstacles and restricted areas in the domain. We demonstrate that our 
 ![Example](./plot.png)
 
 ## Video
-The video in the repository shows simulation of each figure in the paper. Also checkout the application of stoec to a quadcopter coverage problem by Hadi using [AirSim](https://www.youtube.com/watch?v=ij7dZU_yoRI)
+The video in the repository shows simulation of each figure in the paper. Also checkout the application of stoec to a [quadcopter coverage ](https://www.youtube.com/watch?v=ij7dZU_yoRI) problem by Hadi using Airsim. 
 
 
 ## How to run

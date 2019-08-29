@@ -10,9 +10,10 @@ in that region. In this work, we extend the ergodic coverage algorithm to robots
 and avoid obstacles and restricted areas in the domain. We demonstrate that our formulation easily extends to coordination of multiple robots equipped with different sensing capabilities
 to perform ergodic coverage of a domain.
 ![Example](./plot.png)
+
 #Video
-The video in the repository shows simulation of each figure in the paper. Also checkout the application of stoec to a quadcopter coverage problem by Hadi using AirSim.
-[Full video](https://www.youtube.com/watch?v=ij7dZU_yoRI)
+
+The video in the repository shows simulation of each figure in the paper. Also checkout the application of stoec to a quadcopter coverage problem by Hadi using [AirSim](https://www.youtube.com/watch?v=ij7dZU_yoRI)
 
 
 # How to run

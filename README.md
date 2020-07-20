@@ -12,7 +12,9 @@ and avoid obstacles and restricted areas in the domain. We demonstrate that our 
 ![Example](./plot.png)
 
 ## Video
-The video in the repository shows simulation of each figure in the paper. Also checkout the application of stoec to a [quadrotor coverage ](https://www.youtube.com/watch?v=ij7dZU_yoRI) problem by Hadi using Airsim. 
+The video in the repository shows simulation of each figure in the paper. Also checkout the application of stoec to a [quadrotor coverage ](https://www.youtube.com/watch?v=ij7dZU_yoRI) problem by H.Salman using Airsim. 
+
+[![Quadrator Coverage](https://img.youtube.com/vi/ij7dZU_yoRI/0.jpg)](https://www.youtube.com/watch?v=ij7dZU_yoRI)
 
 
 ## How to run
